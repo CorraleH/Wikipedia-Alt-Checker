@@ -96,7 +96,7 @@ Global summary:
 
 ---
 
-## ♿ Accessibility Context
+## 🔍 Accessibility Context
 
 Alternative text (`alt`) improves accessibility by describing image content to screen readers. This script helps identify articles where `alt=` should be added for inclusivity and compliance with accessibility standards.
 
