@@ -121,6 +121,8 @@ python wikipedia_alt_checker.py --category "Ocean animals" --lang en
 
 ---
 
-## 🧾 License
+## 👤 Authorship and License
 
-Distributed under the **MIT License** — feel free to use, modify, and contribute!
+This script was developed by CorraleH (https://meta.wikimedia.org/wiki/User:CorraleH).
+It is released under the GNU General Public License v3.0 (GPL-3.0).
+You are free to use, modify, and share this script under the terms of this license.
